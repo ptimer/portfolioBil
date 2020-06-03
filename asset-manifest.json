@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolioBil/static/css/main.dc266dde.chunk.css",
+    "main.js": "/portfolioBil/static/js/main.9b7531a4.chunk.js",
+    "main.js.map": "/portfolioBil/static/js/main.9b7531a4.chunk.js.map",
+    "runtime-main.js": "/portfolioBil/static/js/runtime-main.0c0b5805.js",
+    "runtime-main.js.map": "/portfolioBil/static/js/runtime-main.0c0b5805.js.map",
+    "static/js/2.bdff09ed.chunk.js": "/portfolioBil/static/js/2.bdff09ed.chunk.js",
+    "static/js/2.bdff09ed.chunk.js.map": "/portfolioBil/static/js/2.bdff09ed.chunk.js.map",
+    "index.html": "/portfolioBil/index.html",
+    "precache-manifest.dd263aa2fceb35e954622cf7b67ce5d3.js": "/portfolioBil/precache-manifest.dd263aa2fceb35e954622cf7b67ce5d3.js",
+    "service-worker.js": "/portfolioBil/service-worker.js",
+    "static/css/main.dc266dde.chunk.css.map": "/portfolioBil/static/css/main.dc266dde.chunk.css.map",
+    "static/js/2.bdff09ed.chunk.js.LICENSE.txt": "/portfolioBil/static/js/2.bdff09ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c0b5805.js",
+    "static/js/2.bdff09ed.chunk.js",
+    "static/css/main.dc266dde.chunk.css",
+    "static/js/main.9b7531a4.chunk.js"
+  ]
+}
