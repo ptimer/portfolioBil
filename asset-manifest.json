@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolioBil/static/css/main.8b65f12f.chunk.css",
+    "main.css": "/portfolioBil/static/css/main.0676dd58.chunk.css",
     "main.js": "/portfolioBil/static/js/main.6a351553.chunk.js",
     "main.js.map": "/portfolioBil/static/js/main.6a351553.chunk.js.map",
     "runtime-main.js": "/portfolioBil/static/js/runtime-main.0c0b5805.js",
@@ -8,15 +8,15 @@
     "static/js/2.c6938067.chunk.js": "/portfolioBil/static/js/2.c6938067.chunk.js",
     "static/js/2.c6938067.chunk.js.map": "/portfolioBil/static/js/2.c6938067.chunk.js.map",
     "index.html": "/portfolioBil/index.html",
-    "precache-manifest.3131a0fdf31e0f35cd18dd28228ad310.js": "/portfolioBil/precache-manifest.3131a0fdf31e0f35cd18dd28228ad310.js",
+    "precache-manifest.42539dc9692c6b527a43cbe63d77fca0.js": "/portfolioBil/precache-manifest.42539dc9692c6b527a43cbe63d77fca0.js",
     "service-worker.js": "/portfolioBil/service-worker.js",
-    "static/css/main.8b65f12f.chunk.css.map": "/portfolioBil/static/css/main.8b65f12f.chunk.css.map",
+    "static/css/main.0676dd58.chunk.css.map": "/portfolioBil/static/css/main.0676dd58.chunk.css.map",
     "static/js/2.c6938067.chunk.js.LICENSE.txt": "/portfolioBil/static/js/2.c6938067.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c0b5805.js",
     "static/js/2.c6938067.chunk.js",
-    "static/css/main.8b65f12f.chunk.css",
+    "static/css/main.0676dd58.chunk.css",
     "static/js/main.6a351553.chunk.js"
   ]
 }
