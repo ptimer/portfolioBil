@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolioBil/static/css/main.076ec9d0.chunk.css",
-    "main.js": "/portfolioBil/static/js/main.4a87a472.chunk.js",
-    "main.js.map": "/portfolioBil/static/js/main.4a87a472.chunk.js.map",
+    "main.css": "/portfolioBil/static/css/main.dc5e437e.chunk.css",
+    "main.js": "/portfolioBil/static/js/main.0f3d96a9.chunk.js",
+    "main.js.map": "/portfolioBil/static/js/main.0f3d96a9.chunk.js.map",
     "runtime-main.js": "/portfolioBil/static/js/runtime-main.0c0b5805.js",
     "runtime-main.js.map": "/portfolioBil/static/js/runtime-main.0c0b5805.js.map",
     "static/js/2.c6938067.chunk.js": "/portfolioBil/static/js/2.c6938067.chunk.js",
     "static/js/2.c6938067.chunk.js.map": "/portfolioBil/static/js/2.c6938067.chunk.js.map",
     "index.html": "/portfolioBil/index.html",
-    "precache-manifest.7d0bc96aa90c1483368479113375638c.js": "/portfolioBil/precache-manifest.7d0bc96aa90c1483368479113375638c.js",
+    "precache-manifest.41d39f51a1cb73570ad957a91ea51817.js": "/portfolioBil/precache-manifest.41d39f51a1cb73570ad957a91ea51817.js",
     "service-worker.js": "/portfolioBil/service-worker.js",
-    "static/css/main.076ec9d0.chunk.css.map": "/portfolioBil/static/css/main.076ec9d0.chunk.css.map",
+    "static/css/main.dc5e437e.chunk.css.map": "/portfolioBil/static/css/main.dc5e437e.chunk.css.map",
     "static/js/2.c6938067.chunk.js.LICENSE.txt": "/portfolioBil/static/js/2.c6938067.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c0b5805.js",
     "static/js/2.c6938067.chunk.js",
-    "static/css/main.076ec9d0.chunk.css",
-    "static/js/main.4a87a472.chunk.js"
+    "static/css/main.dc5e437e.chunk.css",
+    "static/js/main.0f3d96a9.chunk.js"
   ]
 }
