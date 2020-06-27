@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolioBil/static/css/main.65bd10fd.chunk.css",
-    "main.js": "/portfolioBil/static/js/main.88894f48.chunk.js",
-    "main.js.map": "/portfolioBil/static/js/main.88894f48.chunk.js.map",
+    "main.css": "/portfolioBil/static/css/main.dd2aba3e.chunk.css",
+    "main.js": "/portfolioBil/static/js/main.27378b31.chunk.js",
+    "main.js.map": "/portfolioBil/static/js/main.27378b31.chunk.js.map",
     "runtime-main.js": "/portfolioBil/static/js/runtime-main.9ef4cd4f.js",
     "runtime-main.js.map": "/portfolioBil/static/js/runtime-main.9ef4cd4f.js.map",
     "static/js/2.c7e35a0a.chunk.js": "/portfolioBil/static/js/2.c7e35a0a.chunk.js",
     "static/js/2.c7e35a0a.chunk.js.map": "/portfolioBil/static/js/2.c7e35a0a.chunk.js.map",
     "index.html": "/portfolioBil/index.html",
-    "precache-manifest.24d1fdc7ae8964861da36204c1d62d9d.js": "/portfolioBil/precache-manifest.24d1fdc7ae8964861da36204c1d62d9d.js",
+    "precache-manifest.91c24ae144c8e64fe65ba7c57299c215.js": "/portfolioBil/precache-manifest.91c24ae144c8e64fe65ba7c57299c215.js",
     "service-worker.js": "/portfolioBil/service-worker.js",
-    "static/css/main.65bd10fd.chunk.css.map": "/portfolioBil/static/css/main.65bd10fd.chunk.css.map",
+    "static/css/main.dd2aba3e.chunk.css.map": "/portfolioBil/static/css/main.dd2aba3e.chunk.css.map",
     "static/js/2.c7e35a0a.chunk.js.LICENSE.txt": "/portfolioBil/static/js/2.c7e35a0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ef4cd4f.js",
     "static/js/2.c7e35a0a.chunk.js",
-    "static/css/main.65bd10fd.chunk.css",
-    "static/js/main.88894f48.chunk.js"
+    "static/css/main.dd2aba3e.chunk.css",
+    "static/js/main.27378b31.chunk.js"
   ]
 }
